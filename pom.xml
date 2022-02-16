@@ -12,7 +12,7 @@
     <artifactId>ecommerce</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>ecommerce</name>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <description>this de vente en ligne</description>
     <properties>
         <java.version>1.8</java.version>
